@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: JavaScript
-slug: javascript
-category: devlog
+title: Android studio
+slug: android studio
+category: study
 menu: false
 order: 1
 header-img: "/img/js-logo.png"
