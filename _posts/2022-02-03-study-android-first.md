@@ -3,7 +3,7 @@ layout: post
 title: "첫 게시글!"
 subtitle: "첫 게시글!"
 categories: study
-tags: androidstudio java
+tags: android
 ---
 
 # 첫 게시글 작성
