@@ -5,5 +5,4 @@ slug: android
 category: study
 menu: false
 order: 1
-header-img: "/img/js-logo.png"
 ---
