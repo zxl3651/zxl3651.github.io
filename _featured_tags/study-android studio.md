@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Android studio
-slug: android studio
+slug: android
 category: study
 menu: false
 order: 1
