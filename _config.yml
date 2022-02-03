@@ -56,7 +56,7 @@ copyright:           '&copy;2022.이성현(Seong Hyeon) all rights reserved.'
 # Format of the permalinks
 permalink:           pretty
 
-# Pagination configuration (used by the `blog` layout)
+# Pagination configuration (used by the `blog` layout)   화면에 보여지는 게시물 수
 paginate:            8
 paginate_path:       '/page-:num/'
 
