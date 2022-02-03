@@ -19,7 +19,7 @@ tagline:             앱개발 공부중.
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  
+  공부는 어려워
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
