@@ -25,7 +25,7 @@ tags: android
 
 + [preferences..]메뉴를 누르고 좌측에 [Appearance] 메뉴를 누른 후 오른쪽 Theme 항목을 Darcula로 바꾸면 다크모드로 설정되고 Light로 바꾸면 밝게 설정된다.
 
+<img width="600" alt="스크린샷 2022-02-21 오전 1 48 50" src="https://user-images.githubusercontent.com/94293365/156811835-542f0279-129f-414f-bfe0-7fcf46a21b79.png">
 
-<img width="987" alt="스크린샷 2022-02-21 오전 1 48 50" src="https://user-images.githubusercontent.com/94293365/156811835-542f0279-129f-414f-bfe0-7fcf46a21b79.png">
 
-<img width="985" alt="스크린샷 2022-02-21 오전 1 49 03" src="https://user-images.githubusercontent.com/94293365/156811843-9bb6e8d0-c2ff-4584-a286-b702489ef916.png">
+<img width="600" alt="스크린샷 2022-02-21 오전 1 49 03" src="https://user-images.githubusercontent.com/94293365/156811843-9bb6e8d0-c2ff-4584-a286-b702489ef916.png">
