@@ -16,15 +16,16 @@ tags: android
 
 현재 열려있는 파일 중 하나를 빠르게 선택하여 열 수 있다.
 
-![](../assets/img/2022-02-21-02-04-26.png)
+![사진 1](https://user-images.githubusercontent.com/94293365/156811737-c7eedf20-a94c-494f-9da4-2ed06c2b8ecc.png)
 
 ## 스튜디오 테마 설정
 
-![](../assets/img/2022-02-21-02-04-55.png)
+<img width="269" alt="스크린샷 2022-02-21 오전 1 48 37" src="https://user-images.githubusercontent.com/94293365/156811794-532ff063-827e-4487-8481-3f42ac5548bd.png">
+
 
 + [preferences..]메뉴를 누르고 좌측에 [Appearance] 메뉴를 누른 후 오른쪽 Theme 항목을 Darcula로 바꾸면 다크모드로 설정되고 Light로 바꾸면 밝게 설정된다.
 
-![](../assets/img/2022-02-21-02-05-07.png)
 
-![](../assets/img/2022-02-21-02-05-12.png)
+<img width="987" alt="스크린샷 2022-02-21 오전 1 48 50" src="https://user-images.githubusercontent.com/94293365/156811835-542f0279-129f-414f-bfe0-7fcf46a21b79.png">
 
+<img width="985" alt="스크린샷 2022-02-21 오전 1 49 03" src="https://user-images.githubusercontent.com/94293365/156811843-9bb6e8d0-c2ff-4584-a286-b702489ef916.png">
